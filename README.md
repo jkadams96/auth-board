@@ -1,4 +1,4 @@
-# **<ins>Kanban Board Project</ins>**
+# **<ins>Auth Board Project</ins>**
 
 ## **<ins>Project Aim</ins>**
 To create a Kanban Board with interface usability and minor security features.
@@ -6,14 +6,14 @@ To create a Kanban Board with interface usability and minor security features.
 ## **<ins>Core Utilities</ins>**
 next.js, react.js, Tailwind, SQL, Typescript, Vercel.
 
-## **<ins>Working With The Kanban Board</ins>**
+## **<ins>Working With The Auth Board</ins>**
 The command to generate the project in bash is:
 pnpm dev
 
 ### The link to display The Kanban Board is:
 [http://localhost:3000](http://localhost:3000)
 
-### The Kanban Board can be edited by:
+### The Auth Board can be edited by:
 modifying app/page.tsx or a specific feature ts/tsx.
 
 ### Font Features
