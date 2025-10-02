@@ -4,7 +4,7 @@
 To create a Kanban Board with interface usability and minor security features.
 
 ## Core Utilities
-next.js, react.js, Tailwind, SQL, Typescript.
+next.js, react.js, Tailwind, SQL, Typescript, Vercel.
 
 ## **<ins>Working With The Kanban Board</ins>**
 The command to generate the project in bash is:
@@ -17,20 +17,20 @@ pnpm dev
 modifying app/page.tsx or a specific feature ts/tsx.
 
 ### Font Features
-- [Optimzing Fonts] (https://nextjs.org/docs/app/building-your-application/optimizing/fonts)        - [(https://vercel.com/font)]
+- [Vercel Font](https://vercel.com/font)
 
 ## **<ins>Resources</ins>**
 
 To learn more about Next.js, take a look at the following resources:
 
-- (https://nextjs.org/docs)
-- (https://nextjs.org/learn)
-- (https://github.com/vercel/next.js)
-- (https://nextjs.org)
-- (https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+- [Documentation](https://nextjs.org/docs)
+- [Learn More](https://nextjs.org/learn)
+- [Core Utilities GitHub](https://github.com/vercel/next.js)
+- [Additional Core Utilities](https://nextjs.org)
+- [Next App](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## **<ins>Vercel</ins>**
 
-- (https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme)
+- [Vercel Features](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme)
 
 - (https://nextjs.org/docs/app/building-your-application/deploying)
