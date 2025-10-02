@@ -17,7 +17,7 @@ pnpm dev
 modifying app/page.tsx or a specific feature ts/tsx.
 
 ### Font Features
-- [(https://nextjs.org/docs/app/building-your-application/optimizing/fonts)]        - [(https://vercel.com/font)]
+- [Optimzing Fonts] (https://nextjs.org/docs/app/building-your-application/optimizing/fonts)        - [(https://vercel.com/font)]
 
 ## **<ins>Resources</ins>**
 
