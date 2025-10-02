@@ -10,7 +10,7 @@ next.js, react.js, Tailwind, SQL, Typescript, Vercel.
 The command to generate the project in bash is:
 pnpm dev
 
-### The link to display The Kanban Board is:
+### The link to display The Auth Board is:
 [http://localhost:3000](http://localhost:3000)
 
 ### The Auth Board can be edited by:
